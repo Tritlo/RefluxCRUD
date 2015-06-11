@@ -1,0 +1,28 @@
+{
+  "name": "RefluxCRUD",
+  "version": "0.0.1",
+  "description": "A CRUD store for Reflux, with mixins and actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tritlo/RefluxCRUD"
+  },
+  "dependencies": {
+    "reflux": "~0.2.8",
+    "superagent": "~1.2.0",
+    "immutable": "~3.7.3"
+  },
+  "keywords": [
+    "Reflux",
+    "CRUD",
+    "rest"
+  ],
+  "author": "Matthías Páll Gissurarson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tritlo/RefluxCRUD/issues"
+  }
+}
